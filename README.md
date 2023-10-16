@@ -1,5 +1,8 @@
 # privacy-policy
-privacy-policy for NearMe app
+privacy-policy for NearMe App
 
 
-https://immanuel404.github.io/privacy-policy/
+- Termly: https://termly.io/
+
+
+- Policy: https://immanuel404.github.io/privacy-policy/

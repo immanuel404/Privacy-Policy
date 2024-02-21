@@ -1,5 +1,5 @@
 # privacy-policy
-privacy-policy for NearMe App
+NearMe App
 
 
 - Termly: https://termly.io/

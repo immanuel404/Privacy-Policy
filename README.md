@@ -4,8 +4,8 @@ NearMe App
 
 - Termly: https://termly.io/
 
+- Policy: https://immanuel404.github.io/Privacy-Policy/
 
-- Policy: https://immanuel404.github.io/privacy-policy/
 
 <br/>
 
